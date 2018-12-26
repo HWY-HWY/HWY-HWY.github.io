@@ -1,0 +1,16 @@
+pre{
+    white-space: pre-wrap;       /* css-3 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+}
+code {
+    text-align: center;
+    line-height: inherit;
+    padding: 1.5px;
+    border: 1px solid #eaeaea;
+    background-color: #f8f8f8;
+    border-radius: 3px;
+    font-size: 13px;
+    color: #b52a1d;
+}
